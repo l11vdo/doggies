@@ -49,7 +49,7 @@ class DogList extends Component {
                 onChange={this.setFilter}
                 type="text"
                 style={styles.filterinput}
-                placeholder="start typing in the breeds" />
+                placeholder="start typing in to filter breeds" />
             </Form.Group>
             <br />
             <Table responsive>
